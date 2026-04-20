@@ -1,0 +1,2361 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-04-21 01:00">
+<shop>
+<name>СветочЪ</name>
+<company>СветочЪ</company>
+<url>https://svetoch-cheese.ru</url>
+
+<currencies>
+<currency id="RUR" rate="1" />
+</currencies>
+
+<categories>
+<category id="1">Сыры мягкие</category>
+<category id="2">Сыры твёрдые</category>
+<category id="3">Сырные наборы</category>
+</categories>
+
+<offers>
+<offer id="lassiccaciotta_1000" available="true">
+<name>Качотта классическая 1000 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3836-6561-4032-b530-363165323362/-/format/webp/_.png</picture>
+<description>Полутвёрдый выдержанный сыр с плотной ореховой корочкой и насыщенным сливочно-сырным вкусом. В процессе выдержки раскрывается мягкое карамельное послевкусие и более глубокий аромат.
+
+Срок выдержки — от 6 месяцев, благодаря чему сыр приобретает плотную текстуру и яркий вкус.
+
+Идеально подходит для сырных тарелок, закусок и сочетания с вином. Хорошо сочетается с мёдом, орехами и фруктами.
+
+Самовывоз в Томске в день заказа.
+
+Фасовка: 150 г / 250 г / 350 г  
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/lassiccaciotta</url>
+<vendorCode>lassiccaciotta_1000</vendorCode>
+</offer>
+<offer id="lassiccaciotta_150" available="true">
+<name>Качотта классическая 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3836-6561-4032-b530-363165323362/-/format/webp/_.png</picture>
+<description>Полутвёрдый выдержанный сыр с плотной ореховой корочкой и насыщенным сливочно-сырным вкусом. В процессе выдержки раскрывается мягкое карамельное послевкусие и более глубокий аромат.
+
+Срок выдержки — от 6 месяцев, благодаря чему сыр приобретает плотную текстуру и яркий вкус.
+
+Идеально подходит для сырных тарелок, закусок и сочетания с вином. Хорошо сочетается с мёдом, орехами и фруктами.
+
+Самовывоз в Томске в день заказа.
+Компактная фасовка для знакомства с продуктом.
+
+Фасовка: 150 г / 250 г / 350 г  
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/lassiccaciotta</url>
+<vendorCode>lassiccaciotta_150</vendorCode>
+</offer>
+<offer id="lassiccaciotta_250" available="true">
+<name>Качотта классическая 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3836-6561-4032-b530-363165323362/-/format/webp/_.png</picture>
+<description>Полутвёрдый выдержанный сыр с плотной ореховой корочкой и насыщенным сливочно-сырным вкусом. В процессе выдержки раскрывается мягкое карамельное послевкусие и более глубокий аромат.
+
+Срок выдержки — от 6 месяцев, благодаря чему сыр приобретает плотную текстуру и яркий вкус.
+
+Идеально подходит для сырных тарелок, закусок и сочетания с вином. Хорошо сочетается с мёдом, орехами и фруктами.
+
+Самовывоз в Томске в день заказа.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г  
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/lassiccaciotta</url>
+<vendorCode>lassiccaciotta_250</vendorCode>
+</offer>
+<offer id="lassiccaciotta_350" available="true">
+<name>Качотта классическая 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3836-6561-4032-b530-363165323362/-/format/webp/_.png</picture>
+<description>Полутвёрдый выдержанный сыр с плотной ореховой корочкой и насыщенным сливочно-сырным вкусом. В процессе выдержки раскрывается мягкое карамельное послевкусие и более глубокий аромат.
+
+Срок выдержки — от 6 месяцев, благодаря чему сыр приобретает плотную текстуру и яркий вкус.
+
+Идеально подходит для сырных тарелок, закусок и сочетания с вином. Хорошо сочетается с мёдом, орехами и фруктами.
+
+Самовывоз в Томске в день заказа.
+Выгодный формат для семьи или сырной тарелки.
+
+Фасовка: 150 г / 250 г / 350 г  
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/lassiccaciotta</url>
+<vendorCode>lassiccaciotta_350</vendorCode>
+</offer>
+<offer id="caciottashambhala_1000" available="true">
+<name>Качотта с шамболой</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3066-3033-4133-b966-316461303066/-/format/webp/__.png</picture>
+<description>Выдержанный фермерский сыр с плотной корочкой и ярким орехово-сливочным вкусом. Шамбала (пажитник) придаёт сыру насыщенные нотки жареного грецкого ореха и лёгкую терпкость в послевкусии.
+
+Выдержка — от 6 месяцев, благодаря чему вкус становится более глубоким и насыщенным.
+
+Отлично подходит для сырных тарелок и сочетания с мёдом, орехами и вином.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/caciottashambhala</url>
+<vendorCode>caciottashambhala_1000</vendorCode>
+</offer>
+<offer id="caciottashambhala_150" available="true">
+<name>Качотта с шамболой 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3066-3033-4133-b966-316461303066/-/format/webp/__.png</picture>
+<description>Выдержанный фермерский сыр с плотной корочкой и ярким орехово-сливочным вкусом. Шамбала (пажитник) придаёт сыру насыщенные нотки жареного грецкого ореха и лёгкую терпкость в послевкусии.
+
+Выдержка — от 6 месяцев, благодаря чему вкус становится более глубоким и насыщенным.
+
+Отлично подходит для сырных тарелок и сочетания с мёдом, орехами и вином.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом.
+
+Фасовка: 150 г / 250 г / 350 г  
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciottashambhala</url>
+<vendorCode>caciottashambhala_150</vendorCode>
+</offer>
+<offer id="caciottashambhala_250" available="true">
+<name>Качотта с шамболой 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3066-3033-4133-b966-316461303066/-/format/webp/__.png</picture>
+<description>Выдержанный фермерский сыр с плотной корочкой и ярким орехово-сливочным вкусом. Шамбала (пажитник) придаёт сыру насыщенные нотки жареного грецкого ореха и лёгкую терпкость в послевкусии.
+
+Выдержка — от 6 месяцев, благодаря чему вкус становится более глубоким и насыщенным.
+
+Отлично подходит для сырных тарелок и сочетания с мёдом, орехами и вином.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciottashambhala</url>
+<vendorCode>caciottashambhala_250</vendorCode>
+</offer>
+<offer id="caciottashambhala_350" available="true">
+<name>Качотта с шамболой 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3066-3033-4133-b966-316461303066/-/format/webp/__.png</picture>
+<description>Выдержанный фермерский сыр с плотной корочкой и ярким орехово-сливочным вкусом. Шамбала (пажитник) придаёт сыру насыщенные нотки жареного грецкого ореха и лёгкую терпкость в послевкусии.
+
+Выдержка — от 6 месяцев, благодаря чему вкус становится более глубоким и насыщенным.
+
+Отлично подходит для сырных тарелок и сочетания с мёдом, орехами и вином.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciottashambhala</url>
+<vendorCode>caciottashambhala_350</vendorCode>
+</offer>
+<offer id="caciottapaprika_1000" available="true">
+<name>Качотта с паприкой</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3737-6639-4364-a532-333562306138/-/format/webp/__.png</picture>
+<description>Полутвёрдый выдержанный сыр с насыщенным сливочным вкусом и выразительным пряным оттенком вяленой паприки. Обладает плотной текстурой и длительным ароматным послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Идеален для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске в день заказа.</description>
+<url>https://svetoch-cheese.ru/caciottapaprika</url>
+<vendorCode>caciottapaprika_1000</vendorCode>
+</offer>
+<offer id="caciottapaprika_150" available="true">
+<name>Качотта с паприкой 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3737-6639-4364-a532-333562306138/-/format/webp/__.png</picture>
+<description>Полутвёрдый выдержанный сыр с насыщенным сливочным вкусом и выразительным пряным оттенком вяленой паприки. Обладает плотной текстурой и длительным ароматным послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Идеален для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске в день заказа.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciottapaprika</url>
+<vendorCode>caciottapaprika_150</vendorCode>
+</offer>
+<offer id="caciottapaprika_250" available="true">
+<name>Качотта с паприкой 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3737-6639-4364-a532-333562306138/-/format/webp/__.png</picture>
+<description>Полутвёрдый выдержанный сыр с насыщенным сливочным вкусом и выразительным пряным оттенком вяленой паприки. Обладает плотной текстурой и длительным ароматным послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Идеален для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске в день заказа.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciottapaprika</url>
+<vendorCode>caciottapaprika_250</vendorCode>
+</offer>
+<offer id="caciottapaprika_350" available="true">
+<name>Качотта с паприкой 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3737-6639-4364-a532-333562306138/-/format/webp/__.png</picture>
+<description>Полутвёрдый выдержанный сыр с насыщенным сливочным вкусом и выразительным пряным оттенком вяленой паприки. Обладает плотной текстурой и длительным ароматным послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Идеален для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске в день заказа.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciottapaprika</url>
+<vendorCode>caciottapaprika_350</vendorCode>
+</offer>
+<offer id="carphilly_1000" available="true">
+<name>Карфилли</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6235-6566-4232-a638-316332396438/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Выдержанный сыр с ярким, слегка острым вкусом и лёгкими цитрусовыми нотами. В послевкусии раскрываются оттенки сухого кедрового ореха.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/carphilly</url>
+<vendorCode>carphilly_1000</vendorCode>
+</offer>
+<offer id="carphilly_150" available="true">
+<name>Карфилли 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6235-6566-4232-a638-316332396438/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Выдержанный сыр с ярким, слегка острым вкусом и лёгкими цитрусовыми нотами. В послевкусии раскрываются оттенки сухого кедрового ореха.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/carphilly</url>
+<vendorCode>carphilly_150</vendorCode>
+</offer>
+<offer id="carphilly_250" available="true">
+<name>Карфилли 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6235-6566-4232-a638-316332396438/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Выдержанный сыр с ярким, слегка острым вкусом и лёгкими цитрусовыми нотами. В послевкусии раскрываются оттенки сухого кедрового ореха.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/carphilly</url>
+<vendorCode>carphilly_250</vendorCode>
+</offer>
+<offer id="carphilly_350" available="true">
+<name>Карфилли 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6235-6566-4232-a638-316332396438/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Выдержанный сыр с ярким, слегка острым вкусом и лёгкими цитрусовыми нотами. В послевкусии раскрываются оттенки сухого кедрового ореха.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок, закусок и сочетания с вином.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/carphilly</url>
+<vendorCode>carphilly_350</vendorCode>
+</offer>
+<offer id="gouda_1000" available="true">
+<name>Гауда</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3365-3961-4431-a663-633939366637/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр, приготовленный по традиционному голландскому рецепту. Обладает сладковато-сливочным вкусом с цветочными и карамельными нотами в послевкусии.
+
+Выдержка — от 6 месяцев.
+
+Отлично подходит для завтраков, бутербродов, сырных тарелок и горячих блюд.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/gouda</url>
+<vendorCode>gouda_1000</vendorCode>
+</offer>
+<offer id="gouda_150" available="true">
+<name>Гауда 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3365-3961-4431-a663-633939366637/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр, приготовленный по традиционному голландскому рецепту. Обладает сладковато-сливочным вкусом с цветочными и карамельными нотами в послевкусии.
+
+Выдержка — от 6 месяцев.
+
+Отлично подходит для завтраков, бутербродов, сырных тарелок и горячих блюд.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/gouda</url>
+<vendorCode>gouda_150</vendorCode>
+</offer>
+<offer id="gouda_250" available="true">
+<name>Гауда 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3365-3961-4431-a663-633939366637/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр, приготовленный по традиционному голландскому рецепту. Обладает сладковато-сливочным вкусом с цветочными и карамельными нотами в послевкусии.
+
+Выдержка — от 6 месяцев.
+
+Отлично подходит для завтраков, бутербродов, сырных тарелок и горячих блюд.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/gouda</url>
+<vendorCode>gouda_250</vendorCode>
+</offer>
+<offer id="gouda_350" available="true">
+<name>Гауда 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3365-3961-4431-a663-633939366637/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр, приготовленный по традиционному голландскому рецепту. Обладает сладковато-сливочным вкусом с цветочными и карамельными нотами в послевкусии.
+
+Выдержка — от 6 месяцев.
+
+Отлично подходит для завтраков, бутербродов, сырных тарелок и горячих блюд.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/gouda</url>
+<vendorCode>gouda_350</vendorCode>
+</offer>
+<offer id="holland_1000" available="true">
+<name>Голландский сыр</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3835-3061-4439-b761-313138363234/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр, созданный на основе классических рецептов голландской школы (Гауда, Эдам, Маасдам). Обладает насыщенным сливочным вкусом с длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Универсален: подходит для сырных тарелок, закусок и горячих блюд.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/holland</url>
+<vendorCode>holland_1000</vendorCode>
+</offer>
+<offer id="holland_150" available="true">
+<name>Голландский сыр 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3835-3061-4439-b761-313138363234/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр, созданный на основе классических рецептов голландской школы (Гауда, Эдам, Маасдам). Обладает насыщенным сливочным вкусом с длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Универсален: подходит для сырных тарелок, закусок и горячих блюд.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/holland</url>
+<vendorCode>holland_150</vendorCode>
+</offer>
+<offer id="holland_250" available="true">
+<name>Голландский сыр 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3835-3061-4439-b761-313138363234/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр, созданный на основе классических рецептов голландской школы (Гауда, Эдам, Маасдам). Обладает насыщенным сливочным вкусом с длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Универсален: подходит для сырных тарелок, закусок и горячих блюд.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/holland</url>
+<vendorCode>holland_250</vendorCode>
+</offer>
+<offer id="holland_350" available="true">
+<name>Голландский сыр 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3835-3061-4439-b761-313138363234/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр, созданный на основе классических рецептов голландской школы (Гауда, Эдам, Маасдам). Обладает насыщенным сливочным вкусом с длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Универсален: подходит для сырных тарелок, закусок и горячих блюд.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/holland</url>
+<vendorCode>holland_350</vendorCode>
+</offer>
+<offer id="russian_1000" available="true">
+<name>Российский сыр</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6238-3733-4039-a631-386335626463/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр с выраженным сливочным вкусом и лёгкой терпкостью. В послевкусии раскрываются орехово-сырные ноты и насыщенный аромат.
+
+Выдержка — от 6 месяцев.
+
+Подходит для повседневного использования: бутерброды, закуски, запекание.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/russian</url>
+<vendorCode>russian_1000</vendorCode>
+</offer>
+<offer id="russian_150" available="true">
+<name>Российский сыр 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6238-3733-4039-a631-386335626463/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр с выраженным сливочным вкусом и лёгкой терпкостью. В послевкусии раскрываются орехово-сырные ноты и насыщенный аромат.
+
+Выдержка — от 6 месяцев.
+
+Подходит для повседневного использования: бутерброды, закуски, запекание.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/russian</url>
+<vendorCode>russian_150</vendorCode>
+</offer>
+<offer id="russian_250" available="true">
+<name>Российский сыр 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6238-3733-4039-a631-386335626463/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр с выраженным сливочным вкусом и лёгкой терпкостью. В послевкусии раскрываются орехово-сырные ноты и насыщенный аромат.
+
+Выдержка — от 6 месяцев.
+
+Подходит для повседневного использования: бутерброды, закуски, запекание.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/russian</url>
+<vendorCode>russian_250</vendorCode>
+</offer>
+<offer id="russian_350" available="true">
+<name>Российский сыр 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6238-3733-4039-a631-386335626463/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Классический сыр с выраженным сливочным вкусом и лёгкой терпкостью. В послевкусии раскрываются орехово-сырные ноты и насыщенный аромат.
+
+Выдержка — от 6 месяцев.
+
+Подходит для повседневного использования: бутерброды, закуски, запекание.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/russian</url>
+<vendorCode>russian_350</vendorCode>
+</offer>
+<offer id="klimovsky_1000" available="true">
+<name>Климовский</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3064-3932-4636-a638-393335336563/-/format/webp/Rectangle_95.png</picture>
+<description>Авторский выдержанный сыр с ярким, насыщенным грибным вкусом и пряным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Отличный выбор для сырных тарелок и гастрономических сочетаний с вином.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/klimovsky</url>
+<vendorCode>klimovsky_1000</vendorCode>
+</offer>
+<offer id="klimovsky_150" available="true">
+<name>Климовский сыр 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3064-3932-4636-a638-393335336563/-/format/webp/Rectangle_95.png</picture>
+<description>Авторский выдержанный сыр с ярким, насыщенным грибным вкусом и пряным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Отличный выбор для сырных тарелок и гастрономических сочетаний с вином.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/klimovsky</url>
+<vendorCode>klimovsky_150</vendorCode>
+</offer>
+<offer id="klimovsky_250" available="true">
+<name>Климовский сыр 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3064-3932-4636-a638-393335336563/-/format/webp/Rectangle_95.png</picture>
+<description>Авторский выдержанный сыр с ярким, насыщенным грибным вкусом и пряным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Отличный выбор для сырных тарелок и гастрономических сочетаний с вином.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/klimovsky</url>
+<vendorCode>klimovsky_250</vendorCode>
+</offer>
+<offer id="klimovsky_350" available="true">
+<name>Климовский сыр 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3064-3932-4636-a638-393335336563/-/format/webp/Rectangle_95.png</picture>
+<description>Авторский выдержанный сыр с ярким, насыщенным грибным вкусом и пряным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Отличный выбор для сырных тарелок и гастрономических сочетаний с вином.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/klimovsky</url>
+<vendorCode>klimovsky_350</vendorCode>
+</offer>
+<offer id="svetoch_1000" available="true">
+<name>Сыр СветочЪ фирменный</name>
+<vendor>СветочЪ</vendor>
+<price>3500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3738-3666-4831-a337-616233643865/-/format/webp/freepik__-__8703_1_1.png</picture>
+<description>Фирменный выдержанный сыр — золотой медалист конкурсов. Обладает насыщенным орехово-пряным вкусом с характерными нотами умами и длительным послевкусием, напоминающим сыровяленое мясо.
+
+Выдержка — от 6 месяцев.
+
+Визитная карточка сыроварни, идеально подходит для гурманских сырных тарелок.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/svetoch</url>
+<vendorCode>svetoch_1000</vendorCode>
+</offer>
+<offer id="svetoch_150" available="true">
+<name>Сыр СветочЪ выдержанный 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>525</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3738-3666-4831-a337-616233643865/-/format/webp/freepik__-__8703_1_1.png</picture>
+<description>Фирменный выдержанный сыр — золотой медалист конкурсов. Обладает насыщенным орехово-пряным вкусом с характерными нотами умами и длительным послевкусием, напоминающим сыровяленое мясо.
+
+Выдержка — от 6 месяцев.
+
+Визитная карточка сыроварни, идеально подходит для гурманских сырных тарелок.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/svetoch</url>
+<vendorCode>svetoch_150</vendorCode>
+</offer>
+<offer id="svetoch_250" available="true">
+<name>Сыр СветочЪ выдержанный 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>875</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3738-3666-4831-a337-616233643865/-/format/webp/freepik__-__8703_1_1.png</picture>
+<description>Фирменный выдержанный сыр — золотой медалист конкурсов. Обладает насыщенным орехово-пряным вкусом с характерными нотами умами и длительным послевкусием, напоминающим сыровяленое мясо.
+
+Выдержка — от 6 месяцев.
+
+Визитная карточка сыроварни, идеально подходит для гурманских сырных тарелок.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/svetoch</url>
+<vendorCode>svetoch_250</vendorCode>
+</offer>
+<offer id="svetoch_350" available="true">
+<name>Сыр СветочЪ выдержанный 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1225</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3738-3666-4831-a337-616233643865/-/format/webp/freepik__-__8703_1_1.png</picture>
+<description>Фирменный выдержанный сыр — золотой медалист конкурсов. Обладает насыщенным орехово-пряным вкусом с характерными нотами умами и длительным послевкусием, напоминающим сыровяленое мясо.
+
+Выдержка — от 6 месяцев.
+
+Визитная карточка сыроварни, идеально подходит для гурманских сырных тарелок.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/svetoch</url>
+<vendorCode>svetoch_350</vendorCode>
+</offer>
+<offer id="kaciocovallo_1000" available="true">
+<name>Качиоковалло</name>
+<vendor>СветочЪ</vendor>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3866-6164-4938-b461-653563386133/-/format/webp/photo.png</picture>
+<description>Итальянский сыр вытяжного типа с плотной текстурой и характерной формой. Обладает сладковато-сливочным вкусом с нежным ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для жарки, запекания и сырных тарелок.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/kaciocovallo</url>
+<vendorCode>kaciocovallo_1000</vendorCode>
+</offer>
+<offer id="kaciocovallo_150" available="true">
+<name>Качиокавалло 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>405</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3866-6164-4938-b461-653563386133/-/format/webp/photo.png</picture>
+<description>Итальянский сыр вытяжного типа с плотной текстурой и характерной формой. Обладает сладковато-сливочным вкусом с нежным ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для жарки, запекания и сырных тарелок.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/kaciocovallo</url>
+<vendorCode>kaciocovallo_150</vendorCode>
+</offer>
+<offer id="kaciocovallo_250" available="true">
+<name>Качиокавалло 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>675</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3866-6164-4938-b461-653563386133/-/format/webp/photo.png</picture>
+<description>Итальянский сыр вытяжного типа с плотной текстурой и характерной формой. Обладает сладковато-сливочным вкусом с нежным ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для жарки, запекания и сырных тарелок.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/kaciocovallo</url>
+<vendorCode>kaciocovallo_250</vendorCode>
+</offer>
+<offer id="kaciocovallo_350" available="true">
+<name>Качиокавалло 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>945</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3866-6164-4938-b461-653563386133/-/format/webp/photo.png</picture>
+<description>Итальянский сыр вытяжного типа с плотной текстурой и характерной формой. Обладает сладковато-сливочным вкусом с нежным ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для жарки, запекания и сырных тарелок.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/kaciocovallo</url>
+<vendorCode>kaciocovallo_350</vendorCode>
+</offer>
+<offer id="caciocavallolime_1000" available="true">
+<name>Качиоковалло с лаймом</name>
+<vendor>СветочЪ</vendor>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3162-3932-4130-b530-333338373338/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Сыр с натуральным лаймом внутри. В процессе созревания пропитывается эфирными маслами цитруса, приобретая яркий свежий вкус с характерной кислинкой.
+
+Выдержка — от 1 недели до 2 месяцев.
+
+Идеален для необычных сырных тарелок и закусок.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/caciocavallolime</url>
+<vendorCode>caciocavallolime_1000</vendorCode>
+</offer>
+<offer id="caciocavallolime_150" available="true">
+<name>Качиокавалло с лаймом 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>405</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3162-3932-4130-b530-333338373338/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Сыр с натуральным лаймом внутри. В процессе созревания пропитывается эфирными маслами цитруса, приобретая яркий свежий вкус с характерной кислинкой.
+
+Выдержка — от 1 недели до 2 месяцев.
+
+Идеален для необычных сырных тарелок и закусок.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciocavallolime</url>
+<vendorCode>caciocavallolime_150</vendorCode>
+</offer>
+<offer id="caciocavallolime_250" available="true">
+<name>Качиокавалло с лаймом 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>675</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3162-3932-4130-b530-333338373338/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Сыр с натуральным лаймом внутри. В процессе созревания пропитывается эфирными маслами цитруса, приобретая яркий свежий вкус с характерной кислинкой.
+
+Выдержка — от 1 недели до 2 месяцев.
+
+Идеален для необычных сырных тарелок и закусок.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciocavallolime</url>
+<vendorCode>caciocavallolime_250</vendorCode>
+</offer>
+<offer id="caciocavallolime_350" available="true">
+<name>Качиокавалло с лаймом 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>945</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3162-3932-4130-b530-333338373338/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Сыр с натуральным лаймом внутри. В процессе созревания пропитывается эфирными маслами цитруса, приобретая яркий свежий вкус с характерной кислинкой.
+
+Выдержка — от 1 недели до 2 месяцев.
+
+Идеален для необычных сырных тарелок и закусок.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciocavallolime</url>
+<vendorCode>caciocavallolime_350</vendorCode>
+</offer>
+<offer id="caciocavallomandarin_1000" available="true">
+<name>Качиоковалло с мандарином</name>
+<vendor>СветочЪ</vendor>
+<price>2700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6535-3134-4435-b638-626233363166/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Полутвёрдый сыр с лёгкими цитрусовыми нотами мандарина. Обладает сливочным вкусом с нежным сладковато-ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для десертных сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/caciocavallomandarin</url>
+<vendorCode>caciocavallomandarin_1000</vendorCode>
+</offer>
+<offer id="caciocavallomandarin_150" available="true">
+<name>Качиокавалло с мандарином 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>405</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6535-3134-4435-b638-626233363166/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Полутвёрдый сыр с лёгкими цитрусовыми нотами мандарина. Обладает сливочным вкусом с нежным сладковато-ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для десертных сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciocavallomandarin</url>
+<vendorCode>caciocavallomandarin_150</vendorCode>
+</offer>
+<offer id="caciocavallomandarin_250" available="true">
+<name>Качиокавалло с мандарином 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>675</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6535-3134-4435-b638-626233363166/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Полутвёрдый сыр с лёгкими цитрусовыми нотами мандарина. Обладает сливочным вкусом с нежным сладковато-ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для десертных сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/caciocavallomandarin</url>
+<vendorCode>caciocavallomandarin_250</vendorCode>
+</offer>
+<offer id="caciocavallomandarin_350" available="true">
+<name>Качиокавалло с мандарином 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>945</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6535-3134-4435-b638-626233363166/-/format/webp/freepik_retouch_the_.png</picture>
+<description>Полутвёрдый сыр с лёгкими цитрусовыми нотами мандарина. Обладает сливочным вкусом с нежным сладковато-ореховым послевкусием.
+
+Выдержка — от 1 недели до 6 месяцев.
+
+Подходит для десертных сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/caciocavallomandarin</url>
+<vendorCode>caciocavallomandarin_350</vendorCode>
+</offer>
+<offer id="processedcheese_1000" available="true">
+<name>Плавленый авторский сыр - "Ассорти лучших вкусов"</name>
+<vendor>СветочЪ</vendor>
+<price>1500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6462-6566-4536-a334-303232616164/-/format/webp/freepik_90_flat_lay_.png</picture>
+<description>Натуральный плавленый сыр на основе твёрдых и полутвёрдых фермерских сыров. Обладает насыщенным сливочно-сырным вкусом и кремовой текстурой.
+
+Идеален для:
+— завтраков и бутербродов  
+— пасты, пиццы и соусов  
+— горячих блюд  
+
+Универсальный продукт на каждый день — вкусный как самостоятельная закуска и как ингредиент.
+
+Самовывоз в Томске в день заказа.</description>
+<url>https://svetoch-cheese.ru/processedcheese</url>
+<vendorCode>processedcheese_1000</vendorCode>
+</offer>
+<offer id="processedcheese_150" available="true">
+<name>Плавленый авторский сыр ассорти 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>225</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6462-6566-4536-a334-303232616164/-/format/webp/freepik_90_flat_lay_.png</picture>
+<description>Натуральный плавленый сыр на основе твёрдых и полутвёрдых фермерских сыров. Обладает насыщенным сливочно-сырным вкусом и кремовой текстурой.
+
+Идеален для:
+— завтраков и бутербродов  
+— пасты, пиццы и соусов  
+— горячих блюд  
+
+Универсальный продукт на каждый день — вкусный как самостоятельная закуска и как ингредиент.
+
+Самовывоз в Томске в день заказа.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/processedcheese</url>
+<vendorCode>processedcheese_150</vendorCode>
+</offer>
+<offer id="processedcheese_250" available="true">
+<name>Плавленый авторский сыр ассорти 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>375</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6462-6566-4536-a334-303232616164/-/format/webp/freepik_90_flat_lay_.png</picture>
+<description>Натуральный плавленый сыр на основе твёрдых и полутвёрдых фермерских сыров. Обладает насыщенным сливочно-сырным вкусом и кремовой текстурой.
+
+Идеален для:
+— завтраков и бутербродов  
+— пасты, пиццы и соусов  
+— горячих блюд  
+
+Универсальный продукт на каждый день — вкусный как самостоятельная закуска и как ингредиент.
+
+Самовывоз в Томске в день заказа.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/processedcheese</url>
+<vendorCode>processedcheese_250</vendorCode>
+</offer>
+<offer id="processedcheese_350" available="true">
+<name>Плавленый авторский сыр ассорти 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>525</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6462-6566-4536-a334-303232616164/-/format/webp/freepik_90_flat_lay_.png</picture>
+<description>Натуральный плавленый сыр на основе твёрдых и полутвёрдых фермерских сыров. Обладает насыщенным сливочно-сырным вкусом и кремовой текстурой.
+
+Идеален для:
+— завтраков и бутербродов  
+— пасты, пиццы и соусов  
+— горячих блюд  
+
+Универсальный продукт на каждый день — вкусный как самостоятельная закуска и как ингредиент.
+
+Самовывоз в Томске в день заказа.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/processedcheese</url>
+<vendorCode>processedcheese_350</vendorCode>
+</offer>
+<offer id="belperknolle_1000" available="true">
+<name>Бельпер Кнолле</name>
+<vendor>СветочЪ</vendor>
+<price>3500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3530-6139-4534-b266-386338363230/-/format/webp/freepik__-key-light-.png</picture>
+<description>Выдержанный сыр в специях с ярким насыщенным вкусом. Может быть мягким и намазываемым (молодой) или плотным и пикантным (выдержанный).
+
+Вкусы: чесночный или трюфельный. Обсыпка: перец, паприка или прованские травы.
+
+Отличный выбор для гурманских сырных тарелок и закусок.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/belperknolle</url>
+<vendorCode>belperknolle_1000</vendorCode>
+</offer>
+<offer id="belperknolle_150" available="true">
+<name>Бельпер Кнолле 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>525</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3530-6139-4534-b266-386338363230/-/format/webp/freepik__-key-light-.png</picture>
+<description>Выдержанный сыр в специях с ярким насыщенным вкусом. Может быть мягким и намазываемым (молодой) или плотным и пикантным (выдержанный).
+
+Вкусы: чесночный или трюфельный. Обсыпка: перец, паприка или прованские травы.
+
+Отличный выбор для гурманских сырных тарелок и закусок.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/belperknolle</url>
+<vendorCode>belperknolle_150</vendorCode>
+</offer>
+<offer id="belperknolle_250" available="true">
+<name>Бельпер Кнолле 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>875</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3530-6139-4534-b266-386338363230/-/format/webp/freepik__-key-light-.png</picture>
+<description>Выдержанный сыр в специях с ярким насыщенным вкусом. Может быть мягким и намазываемым (молодой) или плотным и пикантным (выдержанный).
+
+Вкусы: чесночный или трюфельный. Обсыпка: перец, паприка или прованские травы.
+
+Отличный выбор для гурманских сырных тарелок и закусок.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/belperknolle</url>
+<vendorCode>belperknolle_250</vendorCode>
+</offer>
+<offer id="belperknolle_350" available="true">
+<name>Бельпер Кнолле 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1225</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3530-6139-4534-b266-386338363230/-/format/webp/freepik__-key-light-.png</picture>
+<description>Выдержанный сыр в специях с ярким насыщенным вкусом. Может быть мягким и намазываемым (молодой) или плотным и пикантным (выдержанный).
+
+Вкусы: чесночный или трюфельный. Обсыпка: перец, паприка или прованские травы.
+
+Отличный выбор для гурманских сырных тарелок и закусок.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/belperknolle</url>
+<vendorCode>belperknolle_350</vendorCode>
+</offer>
+<offer id="kukhterinsky_1000" available="true">
+<name>Кухтеринский</name>
+<vendor>СветочЪ</vendor>
+<price>3500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6233-6131-4466-b133-626233353537/-/format/webp/Rectangle_96.png</picture>
+<description>Выдержанный фермерский сыр с насыщенным грибным вкусом и длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/kukhterinsky</url>
+<vendorCode>kukhterinsky_1000</vendorCode>
+</offer>
+<offer id="kukhterinsky_150" available="true">
+<name>Кухтеринский сыр 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>525</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6233-6131-4466-b133-626233353537/-/format/webp/Rectangle_96.png</picture>
+<description>Выдержанный фермерский сыр с насыщенным грибным вкусом и длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/kukhterinsky</url>
+<vendorCode>kukhterinsky_150</vendorCode>
+</offer>
+<offer id="kukhterinsky_250" available="true">
+<name>Кухтеринский сыр 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>875</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6233-6131-4466-b133-626233353537/-/format/webp/Rectangle_96.png</picture>
+<description>Выдержанный фермерский сыр с насыщенным грибным вкусом и длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/kukhterinsky</url>
+<vendorCode>kukhterinsky_250</vendorCode>
+</offer>
+<offer id="kukhterinsky_350" available="true">
+<name>Кухтеринский сыр 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1225</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6233-6131-4466-b133-626233353537/-/format/webp/Rectangle_96.png</picture>
+<description>Выдержанный фермерский сыр с насыщенным грибным вкусом и длительным ореховым послевкусием.
+
+Выдержка — от 6 месяцев.
+
+Подходит для сырных тарелок и сочетания с вином.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/kukhterinsky</url>
+<vendorCode>kukhterinsky_350</vendorCode>
+</offer>
+<offer id="halloumimint_1000" available="true">
+<name>Халуми с мятой</name>
+<vendor>СветочЪ</vendor>
+<price>1900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6138-6466-4337-a133-343831366663/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с добавлением горной мяты. Быстро обжаривается без масла, образуя румяную корочку.
+
+Идеален для:
+— гриля и сковороды  
+— салатов  
+— горячих закусок  
+
+Рекомендуется подавать тёплым с лимонным или лаймовым соком.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/halloumimint</url>
+<vendorCode>halloumimint_1000</vendorCode>
+</offer>
+<offer id="halloumimint_150" available="true">
+<name>Халуми с мятой 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>285</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6138-6466-4337-a133-343831366663/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с добавлением горной мяты. Быстро обжаривается без масла, образуя румяную корочку.
+
+Идеален для:
+— гриля и сковороды  
+— салатов  
+— горячих закусок  
+
+Рекомендуется подавать тёплым с лимонным или лаймовым соком.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/halloumimint</url>
+<vendorCode>halloumimint_150</vendorCode>
+</offer>
+<offer id="halloumimint_250" available="true">
+<name>Халуми с мятой 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>475</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6138-6466-4337-a133-343831366663/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с добавлением горной мяты. Быстро обжаривается без масла, образуя румяную корочку.
+
+Идеален для:
+— гриля и сковороды  
+— салатов  
+— горячих закусок  
+
+Рекомендуется подавать тёплым с лимонным или лаймовым соком.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/halloumimint</url>
+<vendorCode>halloumimint_250</vendorCode>
+</offer>
+<offer id="halloumimint_350" available="true">
+<name>Халуми с мятой 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>665</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild6138-6466-4337-a133-343831366663/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с добавлением горной мяты. Быстро обжаривается без масла, образуя румяную корочку.
+
+Идеален для:
+— гриля и сковороды  
+— салатов  
+— горячих закусок  
+
+Рекомендуется подавать тёплым с лимонным или лаймовым соком.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/halloumimint</url>
+<vendorCode>halloumimint_350</vendorCode>
+</offer>
+<offer id="halloumichili_1000" available="true">
+<name>Халуми с чили</name>
+<vendor>СветочЪ</vendor>
+<price>1900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3930-3535-4331-a632-383164346465/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с лёгкой пикантностью двух видов перца. При обжарке вкус становится мягче и приобретает приятную «согревающую» остроту.
+
+Подходит для гриля, салатов и горячих блюд.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/halloumichili</url>
+<vendorCode>halloumichili_1000</vendorCode>
+</offer>
+<offer id="halloumichili_150" available="true">
+<name>Халуми с чили 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>285</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3930-3535-4331-a632-383164346465/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с лёгкой пикантностью двух видов перца. При обжарке вкус становится мягче и приобретает приятную «согревающую» остроту.
+
+Подходит для гриля, салатов и горячих блюд.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/halloumichili</url>
+<vendorCode>halloumichili_150</vendorCode>
+</offer>
+<offer id="halloumichili_250" available="true">
+<name>Халуми с чили 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>475</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3930-3535-4331-a632-383164346465/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с лёгкой пикантностью двух видов перца. При обжарке вкус становится мягче и приобретает приятную «согревающую» остроту.
+
+Подходит для гриля, салатов и горячих блюд.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/halloumichili</url>
+<vendorCode>halloumichili_250</vendorCode>
+</offer>
+<offer id="halloumichili_350" available="true">
+<name>Халуми с чили 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>665</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://optim.tildacdn.com/tild3930-3535-4331-a632-383164346465/-/format/webp/freepik__-1-2-1-1-1-.png</picture>
+<description>Сыр для жарки с лёгкой пикантностью двух видов перца. При обжарке вкус становится мягче и приобретает приятную «согревающую» остроту.
+
+Подходит для гриля, салатов и горячих блюд.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/halloumichili</url>
+<vendorCode>halloumichili_350</vendorCode>
+</offer>
+<offer id="camembert_1000" available="true">
+<name>Камамбер</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6163-3234-4964-b134-313565366233/-/format/webp/photo.png</picture>
+<description>Мягкий сыр с белой плесенью и бархатистой корочкой. Обладает нежным сливочным вкусом с лёгкими грибными нотами.
+
+Идеален для сырных тарелок, запекания и сочетания с фруктами и вином.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/camembert</url>
+<vendorCode>camembert_1000</vendorCode>
+</offer>
+<offer id="camembert_150" available="true">
+<name>Камамбер 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6163-3234-4964-b134-313565366233/-/format/webp/photo.png</picture>
+<description>Мягкий сыр с белой плесенью и бархатистой корочкой. Обладает нежным сливочным вкусом с лёгкими грибными нотами.
+
+Идеален для сырных тарелок, запекания и сочетания с фруктами и вином.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/camembert</url>
+<vendorCode>camembert_150</vendorCode>
+</offer>
+<offer id="camembert_250" available="true">
+<name>Камамбер 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6163-3234-4964-b134-313565366233/-/format/webp/photo.png</picture>
+<description>Мягкий сыр с белой плесенью и бархатистой корочкой. Обладает нежным сливочным вкусом с лёгкими грибными нотами.
+
+Идеален для сырных тарелок, запекания и сочетания с фруктами и вином.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/camembert</url>
+<vendorCode>camembert_250</vendorCode>
+</offer>
+<offer id="camembert_350" available="true">
+<name>Камамбер 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6163-3234-4964-b134-313565366233/-/format/webp/photo.png</picture>
+<description>Мягкий сыр с белой плесенью и бархатистой корочкой. Обладает нежным сливочным вкусом с лёгкими грибными нотами.
+
+Идеален для сырных тарелок, запекания и сочетания с фруктами и вином.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/camembert</url>
+<vendorCode>camembert_350</vendorCode>
+</offer>
+<offer id="goatcamembert_1000" available="true">
+<name>Камамбер козий</name>
+<vendor>СветочЪ</vendor>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6437-3832-4731-b630-316636333764/-/format/webp/_1.png</picture>
+<description>Мягкий сыр с белой плесенью из козьего молока. Обладает более выраженным вкусом с лёгкой кислинкой и ореховыми нотами.
+
+Отличный выбор для гурманов и сырных тарелок.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/goatcamembert</url>
+<vendorCode>goatcamembert_1000</vendorCode>
+</offer>
+<offer id="goatcamembert_150" available="true">
+<name>Камамбер козий 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>495</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6437-3832-4731-b630-316636333764/-/format/webp/_1.png</picture>
+<description>Мягкий сыр с белой плесенью из козьего молока. Обладает более выраженным вкусом с лёгкой кислинкой и ореховыми нотами.
+
+Отличный выбор для гурманов и сырных тарелок.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/goatcamembert</url>
+<vendorCode>goatcamembert_150</vendorCode>
+</offer>
+<offer id="goatcamembert_250" available="true">
+<name>Камамбер козий 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>825</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6437-3832-4731-b630-316636333764/-/format/webp/_1.png</picture>
+<description>Мягкий сыр с белой плесенью из козьего молока. Обладает более выраженным вкусом с лёгкой кислинкой и ореховыми нотами.
+
+Отличный выбор для гурманов и сырных тарелок.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/goatcamembert</url>
+<vendorCode>goatcamembert_250</vendorCode>
+</offer>
+<offer id="goatcamembert_350" available="true">
+<name>Камамбер козий 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1155</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6437-3832-4731-b630-316636333764/-/format/webp/_1.png</picture>
+<description>Мягкий сыр с белой плесенью из козьего молока. Обладает более выраженным вкусом с лёгкой кислинкой и ореховыми нотами.
+
+Отличный выбор для гурманов и сырных тарелок.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/goatcamembert</url>
+<vendorCode>goatcamembert_350</vendorCode>
+</offer>
+<offer id="gorgonzola_1000" available="true">
+<name>Горгонзола</name>
+<vendor>СветочЪ</vendor>
+<price>3800</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Сыр с голубой плесенью и насыщенным пикантным вкусом. Обладает мягкой маслянистой текстурой и ярким ароматом.
+
+Подходит для сырных тарелок, соусов и сочетания с мёдом.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/gorgonzola</url>
+<vendorCode>gorgonzola_1000</vendorCode>
+</offer>
+<offer id="gorgonzola_150" available="true">
+<name>Горгонзола 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>570</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Сыр с голубой плесенью и насыщенным пикантным вкусом. Обладает мягкой маслянистой текстурой и ярким ароматом.
+
+Подходит для сырных тарелок, соусов и сочетания с мёдом.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/gorgonzola</url>
+<vendorCode>gorgonzola_150</vendorCode>
+</offer>
+<offer id="gorgonzola_250" available="true">
+<name>Горгонзола 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>950</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Сыр с голубой плесенью и насыщенным пикантным вкусом. Обладает мягкой маслянистой текстурой и ярким ароматом.
+
+Подходит для сырных тарелок, соусов и сочетания с мёдом.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/gorgonzola</url>
+<vendorCode>gorgonzola_250</vendorCode>
+</offer>
+<offer id="gorgonzola_350" available="true">
+<name>Горгонзола 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1330</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Сыр с голубой плесенью и насыщенным пикантным вкусом. Обладает мягкой маслянистой текстурой и ярким ароматом.
+
+Подходит для сырных тарелок, соусов и сочетания с мёдом.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/gorgonzola</url>
+<vendorCode>gorgonzola_350</vendorCode>
+</offer>
+<offer id="goatgorgonzola_1000" available="true">
+<name>Горгонзола козья</name>
+<vendor>СветочЪ</vendor>
+<price>4000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Деликатесный сыр с голубой плесенью из козьего молока. Более мягкий и изысканный вкус с лёгкой кислинкой и сливочным послевкусием.
+
+Идеален для гурманских сочетаний и сырных тарелок.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/goatgorgonzola</url>
+<vendorCode>goatgorgonzola_1000</vendorCode>
+</offer>
+<offer id="goatgorgonzola_150" available="true">
+<name>Горгонзола козья 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>600</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Деликатесный сыр с голубой плесенью из козьего молока. Более мягкий и изысканный вкус с лёгкой кислинкой и сливочным послевкусием.
+
+Идеален для гурманских сочетаний и сырных тарелок.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/goatgorgonzola</url>
+<vendorCode>goatgorgonzola_150</vendorCode>
+</offer>
+<offer id="goatgorgonzola_250" available="true">
+<name>Горгонзола козья 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Деликатесный сыр с голубой плесенью из козьего молока. Более мягкий и изысканный вкус с лёгкой кислинкой и сливочным послевкусием.
+
+Идеален для гурманских сочетаний и сырных тарелок.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/goatgorgonzola</url>
+<vendorCode>goatgorgonzola_250</vendorCode>
+</offer>
+<offer id="goatgorgonzola_350" available="true">
+<name>Горгонзола козья 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1400</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6134-3838-4637-a230-653137313262/-/format/webp/_1.png</picture>
+<description>Деликатесный сыр с голубой плесенью из козьего молока. Более мягкий и изысканный вкус с лёгкой кислинкой и сливочным послевкусием.
+
+Идеален для гурманских сочетаний и сырных тарелок.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/goatgorgonzola</url>
+<vendorCode>goatgorgonzola_350</vendorCode>
+</offer>
+<offer id="chechil_1000" available="true">
+<name>Чечил</name>
+<vendor>СветочЪ</vendor>
+<price>2400</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6436-6139-4536-b034-393339623736/-/format/webp/e1a399de6de4d9a746e2.png</picture>
+<description>Волокнистый рассольный сыр с лёгким солёным вкусом. Обладает упругой текстурой и удобен как перекус.
+
+Отлично подходит к напиткам и закускам.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/chechil</url>
+<vendorCode>chechil_1000</vendorCode>
+</offer>
+<offer id="chechil_150" available="true">
+<name>Чечил 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>360</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6436-6139-4536-b034-393339623736/-/format/webp/e1a399de6de4d9a746e2.png</picture>
+<description>Волокнистый рассольный сыр с лёгким солёным вкусом. Обладает упругой текстурой и удобен как перекус.
+
+Отлично подходит к напиткам и закускам.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/chechil</url>
+<vendorCode>chechil_150</vendorCode>
+</offer>
+<offer id="chechil_250" available="true">
+<name>Чечил 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>600</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6436-6139-4536-b034-393339623736/-/format/webp/e1a399de6de4d9a746e2.png</picture>
+<description>Волокнистый рассольный сыр с лёгким солёным вкусом. Обладает упругой текстурой и удобен как перекус.
+
+Отлично подходит к напиткам и закускам.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/chechil</url>
+<vendorCode>chechil_250</vendorCode>
+</offer>
+<offer id="chechil_350" available="true">
+<name>Чечил 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>840</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6436-6139-4536-b034-393339623736/-/format/webp/e1a399de6de4d9a746e2.png</picture>
+<description>Волокнистый рассольный сыр с лёгким солёным вкусом. Обладает упругой текстурой и удобен как перекус.
+
+Отлично подходит к напиткам и закускам.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/chechil</url>
+<vendorCode>chechil_350</vendorCode>
+</offer>
+<offer id="stracciatella_1000" available="true">
+<name>Страчателла</name>
+<vendor>СветочЪ</vendor>
+<price>2500</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6239-6364-4466-a138-323636613366/-/format/webp/1.png</picture>
+<description>Нежный кремовый сыр с мягкой текстурой и свежим молочным вкусом. Состоит из сливочной основы и волокон моцареллы.
+
+Идеален для закусок, брускетт и салатов.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/stracciatella</url>
+<vendorCode>stracciatella_1000</vendorCode>
+</offer>
+<offer id="stracciatella_150" available="true">
+<name>Страчателла 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>375</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6239-6364-4466-a138-323636613366/-/format/webp/1.png</picture>
+<description>Нежный кремовый сыр с мягкой текстурой и свежим молочным вкусом. Состоит из сливочной основы и волокон моцареллы.
+
+Идеален для закусок, брускетт и салатов.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/stracciatella</url>
+<vendorCode>stracciatella_150</vendorCode>
+</offer>
+<offer id="stracciatella_250" available="true">
+<name>Страчателла 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>625</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6239-6364-4466-a138-323636613366/-/format/webp/1.png</picture>
+<description>Нежный кремовый сыр с мягкой текстурой и свежим молочным вкусом. Состоит из сливочной основы и волокон моцареллы.
+
+Идеален для закусок, брускетт и салатов.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/stracciatella</url>
+<vendorCode>stracciatella_250</vendorCode>
+</offer>
+<offer id="stracciatella_350" available="true">
+<name>Страчателла 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>875</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild6239-6364-4466-a138-323636613366/-/format/webp/1.png</picture>
+<description>Нежный кремовый сыр с мягкой текстурой и свежим молочным вкусом. Состоит из сливочной основы и волокон моцареллы.
+
+Идеален для закусок, брускетт и салатов.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/stracciatella</url>
+<vendorCode>stracciatella_350</vendorCode>
+</offer>
+<offer id="butter_1000" available="true">
+<name>Масло сливочное</name>
+<vendor>СветочЪ</vendor>
+<price>3000</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3262-3630-4334-b935-363335366330/-/format/webp/0f193e4c90f44c1cc5e6.png</picture>
+<description>Натуральное фермерское масло из сливок с насыщенным молочным вкусом и кремовой текстурой.
+
+Идеально подходит для:
+— завтраков и выпечки  
+— багета и круассанов  
+— горячих блюд  
+
+Отлично сочетается с мёдом, солью и свежим хлебом.
+
+Самовывоз в Томске.</description>
+<url>https://svetoch-cheese.ru/butter</url>
+<vendorCode>butter_1000</vendorCode>
+</offer>
+<offer id="butter_150" available="true">
+<name>Масло сливочное 150 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>450</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3262-3630-4334-b935-363335366330/-/format/webp/0f193e4c90f44c1cc5e6.png</picture>
+<description>Натуральное фермерское масло из сливок с насыщенным молочным вкусом и кремовой текстурой.
+
+Идеально подходит для:
+— завтраков и выпечки  
+— багета и круассанов  
+— горячих блюд  
+
+Отлично сочетается с мёдом, солью и свежим хлебом.
+
+Самовывоз в Томске.
+Компактная фасовка для знакомства с продуктом. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. </description>
+<url>https://svetoch-cheese.ru/butter</url>
+<vendorCode>butter_150</vendorCode>
+</offer>
+<offer id="butter_250" available="true">
+<name>Масло сливочное 250 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>750</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3262-3630-4334-b935-363335366330/-/format/webp/0f193e4c90f44c1cc5e6.png</picture>
+<description>Натуральное фермерское масло из сливок с насыщенным молочным вкусом и кремовой текстурой.
+
+Идеально подходит для:
+— завтраков и выпечки  
+— багета и круассанов  
+— горячих блюд  
+
+Отлично сочетается с мёдом, солью и свежим хлебом.
+
+Самовывоз в Томске.
+Оптимальный объём для регулярного потребления.
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться. 
+</description>
+<url>https://svetoch-cheese.ru/butter</url>
+<vendorCode>butter_250</vendorCode>
+</offer>
+<offer id="butter_350" available="true">
+<name>Масло сливочное 350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1050</price>
+<currencyId>RUR</currencyId>
+<categoryId>2</categoryId>
+<picture>https://optim.tildacdn.com/tild3262-3630-4334-b935-363335366330/-/format/webp/0f193e4c90f44c1cc5e6.png</picture>
+<description>Натуральное фермерское масло из сливок с насыщенным молочным вкусом и кремовой текстурой.
+
+Идеально подходит для:
+— завтраков и выпечки  
+— багета и круассанов  
+— горячих блюд  
+
+Отлично сочетается с мёдом, солью и свежим хлебом.
+
+Самовывоз в Томске.
+Выгодный формат для семьи или сырной тарелки. 
+
+Фасовка: 150 г / 250 г / 350 г 
+Вес может незначительно отличаться.</description>
+<url>https://svetoch-cheese.ru/butter</url>
+<vendorCode>butter_350</vendorCode>
+</offer>
+<offer id="set1_350" available="true">
+<name>Подарочный сырный набор премиум Бельпер Кнолле Камамбер козий Качиокавалло ~350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1390</price>
+<oldprice>1590</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set1_350</vendorCode>
+</offer>
+<offer id="set1_600" available="true">
+<name>Подарочный сырный набор премиум Бельпер Кнолле Камамбер козий Качиокавалло СветочЪ ~600 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>2390</price>
+<oldprice>2790</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set1_600</vendorCode>
+</offer>
+<offer id="set1_1000" available="true">
+<name>Подарочный сырный набор премиум Бельпер Кнолле Камамбер козий СветочЪ выдержанный Качиокавалло Горгонзола козья ~1000 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>4190</price>
+<oldprice>4890</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set1_1000</vendorCode>
+</offer>
+<offer id="set2_350" available="true">
+<name>Сырный набор для свидания Камамбер Страчателла Качиокавалло ~350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1190</price>
+<oldprice>1390</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set2_350</vendorCode>
+</offer>
+<offer id="set2_600" available="true">
+<name>Сырный набор для свидания Камамбер Страчателла Качиокавалло Качотта ~600 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>2090</price>
+<oldprice>2390</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set2_600</vendorCode>
+</offer>
+<offer id="set2_1000" available="true">
+<name>Сырный набор для свидания Камамбер Страчателла Качиокавалло Качотта Гауда ~1000 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>3490</price>
+<oldprice>3990</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set2_1000</vendorCode>
+</offer>
+<offer id="set3_350" available="true">
+<name>Сырная тарелка классическая Качотта Гауда Голландия ~350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1290</price>
+<oldprice>1490</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set3_350</vendorCode>
+</offer>
+<offer id="set3_600" available="true">
+<name>Сырная тарелка классическая Качотта Гауда Голландия Качиокавалло ~600 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>2190</price>
+<oldprice>2490</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set3_600</vendorCode>
+</offer>
+<offer id="set3_1000" available="true">
+<name>Сырная тарелка классическая Качотта Гауда Голландия Качиокавалло Чеддер ~1000 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>3590</price>
+<oldprice>4190</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set3_1000</vendorCode>
+</offer>
+<offer id="set4_350" available="true">
+<name>Сырная тарелка сливочная Страчателла Камамбер Качотта ~350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1190</price>
+<oldprice>1390</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set4_350</vendorCode>
+</offer>
+<offer id="set4_600" available="true">
+<name>Сырная тарелка сливочная Страчателла Камамбер Качотта Качиокавалло ~600 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>2090</price>
+<oldprice>2390</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set4_600</vendorCode>
+</offer>
+<offer id="set4_1000" available="true">
+<name>Сырная тарелка сливочная Страчателла Камамбер Качотта Качиокавалло Гауда ~1000 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>3390</price>
+<oldprice>3990</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set4_1000</vendorCode>
+</offer>
+<offer id="set41_350" available="true">
+<name>Сырный набор мягкие сыры Страчателла Камамбер Качотта ~350 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>1190</price>
+<oldprice>1390</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set41_350</vendorCode>
+</offer>
+<offer id="set41_600" available="true">
+<name>Сырный набор мягкие сыры Страчателла Камамбер Качотта Качиокавалло ~600 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>2090</price>
+<oldprice>2390</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set41_600</vendorCode>
+</offer>
+<offer id="set41_1000" available="true">
+<name>Сырный набор мягкие сыры Страчателла Камамбер Качотта Качиокавалло Гауда ~1000 г СветочЪ Томск</name>
+<vendor>СветочЪ</vendor>
+<price>3390</price>
+<oldprice>3990</oldprice>
+<currencyId>RUR</currencyId>
+<categoryId>3</categoryId>
+<picture />
+<description>Готовая сырная тарелка из фермерских сыров СветочЪ. Сбалансированное сочетание мягких, выдержанных и ярких вкусов.
+
+Подходит для:
+— ужина или свидания  
+— подарка  
+— подачи к вину  
+
+Мы уже подобрали гармоничное сочетание сыров — вам остаётся только открыть и наслаждаться.
+
+Самовывоз в Томске в день заказа.
+
+Набор доступен в нескольких форматах:
+
+— ~350 г — компактный вариант для знакомства  
+— ~600 г — оптимально для 2–3 человек  
+— ~1000 г — для компании или праздничной подачи  
+
+Вес может незначительно отличаться в зависимости от нарезки и состава.</description>
+<url />
+<vendorCode>set41_1000</vendorCode>
+</offer>
+</offers>
+
+</shop>
+</yml_catalog>
